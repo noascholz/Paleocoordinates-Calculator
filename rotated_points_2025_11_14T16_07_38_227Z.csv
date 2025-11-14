@@ -1,0 +1,113 @@
+Name,lat,lng,age_mean,p_lat,p_lng,range_p_lat,max_dist,period,model
+Allosaurus fragilis,39.323,-110.688,150,37.6254,-38.317,10.4251,2220.021,Tithonian,MERDITH2021
+Allosaurus fragilis,39.323,-110.688,150,37.2359,-52.3646,10.4251,2220.021,Tithonian,TorsvikCocks2017
+Allosaurus fragilis,39.323,-110.688,150,35.7382,-41.6276,10.4251,2220.021,Tithonian,MATTHEWS2016_pmag_ref
+Allosaurus fragilis,39.323,-110.688,150,27.2003,-45.5522,10.4251,2220.021,Tithonian,GOLONKA
+Allosaurus fragilis,39.323,-110.688,150,36.2253,-63.2458,10.4251,2220.021,Tithonian,PALEOMAP
+Archaeopteryx lithographica,48.799,10.919,150.4,31.0693,37.621,9.6886,2014.125,Tithonian,MERDITH2021
+Archaeopteryx lithographica,48.799,10.919,150.4,34.2763,24.3614,9.6886,2014.125,Tithonian,TorsvikCocks2017
+Archaeopteryx lithographica,48.799,10.919,150.4,35.0356,35.9446,9.6886,2014.125,Tithonian,MATTHEWS2016_pmag_ref
+Archaeopteryx lithographica,48.799,10.919,150.4,31.9439,22.8925,9.6886,2014.125,Tithonian,GOLONKA
+Archaeopteryx lithographica,48.799,10.919,150.4,40.7579,18.6626,9.6886,2014.125,Tithonian,PALEOMAP
+Argentavis magnificens,-37.224,-63.585,7.9,-39.2095,-63.4505,2.4474,284.498,Late Miocene,MERDITH2021
+Argentavis magnificens,-37.224,-63.585,7.9,-39.349,-62.8498,2.4474,284.498,Late Miocene,TorsvikCocks2017
+Argentavis magnificens,-37.224,-63.585,7.9,-39.3953,-62.0042,2.4474,284.498,Late Miocene,MATTHEWS2016_pmag_ref
+Argentavis magnificens,-37.224,-63.585,7.9,-36.9479,-61.9244,2.4474,284.498,Late Miocene,GOLONKA
+Argentavis magnificens,-37.224,-63.585,7.9,-37.3097,-61.8185,2.4474,284.498,Late Miocene,PALEOMAP
+Argentinosaurus huinculensis,-38.92,-69.839,95.25,-40.8694,-38.5075,7.4921,1217.296,Cenomanian,MERDITH2021
+Argentinosaurus huinculensis,-38.92,-69.839,95.25,-43.5645,-44.2552,7.4921,1217.296,Cenomanian,TorsvikCocks2017
+Argentinosaurus huinculensis,-38.92,-69.839,95.25,-43.2512,-38.9066,7.4921,1217.296,Cenomanian,MATTHEWS2016_pmag_ref
+Argentinosaurus huinculensis,-38.92,-69.839,95.25,-38.2629,-36.1807,7.4921,1217.296,Cenomanian,GOLONKA
+Argentinosaurus huinculensis,-38.92,-69.839,95.25,-45.755,-46.9389,7.4921,1217.296,Cenomanian,PALEOMAP
+Australopithecus afarensis,11.167,40.633,3.2,9.7477,40.4605,1.2544,138.897,Pliocene,MERDITH2021
+Australopithecus afarensis,11.167,40.633,3.2,10.4853,40.1676,1.2544,138.897,Pliocene,TorsvikCocks2017
+Australopithecus afarensis,11.167,40.633,3.2,10.5274,40.162,1.2544,138.897,Pliocene,MATTHEWS2016_pmag_ref
+Australopithecus afarensis,11.167,40.633,3.2,10.2151,40.5075,1.2544,138.897,Pliocene,GOLONKA
+Australopithecus afarensis,11.167,40.633,3.2,11.0021,40.402,1.2544,138.897,Pliocene,PALEOMAP
+Basilosaurus isis,31.574,37.118,35.805,18.7333,35.3104,6.1961,836.622,Late Eocene,MERDITH2021
+Basilosaurus isis,31.574,37.118,35.805,22.3618,29.8997,6.1961,836.622,Late Eocene,TorsvikCocks2017
+Basilosaurus isis,31.574,37.118,35.805,22.5192,34.4466,6.1961,836.622,Late Eocene,MATTHEWS2016_pmag_ref
+Basilosaurus isis,31.574,37.118,35.805,19.2376,37.2187,6.1961,836.622,Late Eocene,GOLONKA
+Basilosaurus isis,31.574,37.118,35.805,24.9294,31.9571,6.1961,836.622,Late Eocene,PALEOMAP
+Brachiosaurus altithorax,39.073,-108.649,153.5,34.6456,-37.0575,8.6388,2112.98,Kimmeridgian,MERDITH2021
+Brachiosaurus altithorax,39.073,-108.649,153.5,35.2003,-49.8382,8.6388,2112.98,Kimmeridgian,TorsvikCocks2017
+Brachiosaurus altithorax,39.073,-108.649,153.5,33.4836,-39.2715,8.6388,2112.98,Kimmeridgian,MATTHEWS2016_pmag_ref
+Brachiosaurus altithorax,39.073,-108.649,153.5,26.5615,-42.6075,8.6388,2112.98,Kimmeridgian,GOLONKA
+Brachiosaurus altithorax,39.073,-108.649,153.5,35.1098,-60.2148,8.6388,2112.98,Kimmeridgian,PALEOMAP
+Cryolophosaurus ellioti,-84.33,166.42,188.55,-61.5286,51.7273,7.2531,1173.89,Pliensbachian,MERDITH2021
+Cryolophosaurus ellioti,-84.33,166.42,188.55,-55.9528,37.7011,7.2531,1173.89,Pliensbachian,TorsvikCocks2017
+Cryolophosaurus ellioti,-84.33,166.42,188.55,-55.6963,49.5809,7.2531,1173.89,Pliensbachian,MATTHEWS2016_pmag_ref
+Cryolophosaurus ellioti,-84.33,166.42,188.55,-54.2755,50.8238,7.2531,1173.89,Pliensbachian,GOLONKA
+Cryolophosaurus ellioti,-84.33,166.42,188.55,-58.2895,33.2224,7.2531,1173.89,Pliensbachian,PALEOMAP
+Eoraptor lunensis,-30.068,-67.936,228.65,-42.9958,-29.9621,10.2747,1289.418,Carnian,MERDITH2021
+Eoraptor lunensis,-30.068,-67.936,228.65,-47.1948,-34.404,10.2747,1289.418,Carnian,TorsvikCocks2017
+Eoraptor lunensis,-30.068,-67.936,228.65,-47.8304,-31.1921,10.2747,1289.418,Carnian,MATTHEWS2016_pmag_ref
+Eoraptor lunensis,-30.068,-67.936,228.65,-37.5557,-25.6408,10.2747,1289.418,Carnian,GOLONKA
+Eoraptor lunensis,-30.068,-67.936,228.65,-43.7914,-33.9384,10.2747,1289.418,Carnian,PALEOMAP
+Hallucinochrysa diogenesi,43.306,-4.448,111,34.7477,17.2958,5.3767,1462.241,Middle Albian,MERDITH2021
+Hallucinochrysa diogenesi,43.306,-4.448,111,33.8342,11.4244,5.3767,1462.241,Middle Albian,TorsvikCocks2017
+Hallucinochrysa diogenesi,43.306,-4.448,111,34.489,20.1521,5.3767,1462.241,Middle Albian,MATTHEWS2016_pmag_ref
+Hallucinochrysa diogenesi,43.306,-4.448,111,38.2746,19.8013,5.3767,1462.241,Middle Albian,GOLONKA
+Hallucinochrysa diogenesi,43.306,-4.448,111,32.8979,5.0436,5.3767,1462.241,Middle Albian,PALEOMAP
+Homo erectus,-7.456,110.834,1.35,-7.2021,110.9496,0.4726,60.769,Pliocene,MERDITH2021
+Homo erectus,-7.456,110.834,1.35,-7.1224,110.8706,0.4726,60.769,Pliocene,TorsvikCocks2017
+Homo erectus,-7.456,110.834,1.35,-7.1365,110.9107,0.4726,60.769,Pliocene,MATTHEWS2016_pmag_ref
+Homo erectus,-7.456,110.834,1.35,-7.595,111.1514,0.4726,60.769,Pliocene,GOLONKA
+Homo erectus,-7.456,110.834,1.35,-7.5056,111.0274,0.4726,60.769,Pliocene,PALEOMAP
+Ichthyosaurus communis,50.725,-2.93,194,34.5595,15.6854,8.2704,3381.179,Sinemurian,MERDITH2021
+Ichthyosaurus communis,50.725,-2.93,194,42.8299,-22.0909,8.2704,3381.179,Sinemurian,TorsvikCocks2017
+Ichthyosaurus communis,50.725,-2.93,194,39.5883,13.8884,8.2704,3381.179,Sinemurian,MATTHEWS2016_pmag_ref
+Ichthyosaurus communis,50.725,-2.93,194,37.5322,10.5653,8.2704,3381.179,Sinemurian,GOLONKA
+Ichthyosaurus communis,50.725,-2.93,194,37.6173,3.5866,8.2704,3381.179,Sinemurian,PALEOMAP
+Moanasaurus mangahouangae,-39.07,177.03,76,-57.7534,-158.0749,3.7774,956.465,Late Campanian,MERDITH2021
+Moanasaurus mangahouangae,-39.07,177.03,76,-58.9272,-171.7429,3.7774,956.465,Late Campanian,TorsvikCocks2017
+Moanasaurus mangahouangae,-39.07,177.03,76,-57.5851,-160.3981,3.7774,956.465,Late Campanian,MATTHEWS2016_pmag_ref
+Moanasaurus mangahouangae,-39.07,177.03,76,-55.7611,-156.9313,3.7774,956.465,Late Campanian,GOLONKA
+Moanasaurus mangahouangae,-39.07,177.03,76,-59.5385,-165.9564,3.7774,956.465,Late Campanian,PALEOMAP
+Mosasaurus hoffmannii,50.821,5.686,69.05,40.1002,13.027,4.784,1416.74,Maastrichtian,MERDITH2021
+Mosasaurus hoffmannii,50.821,5.686,69.05,40.1021,-0.7858,4.784,1416.74,Maastrichtian,TorsvikCocks2017
+Mosasaurus hoffmannii,50.821,5.686,69.05,39.6399,11.3653,4.784,1416.74,Maastrichtian,MATTHEWS2016_pmag_ref
+Mosasaurus hoffmannii,50.821,5.686,69.05,38.3119,15.4784,4.784,1416.74,Maastrichtian,GOLONKA
+Mosasaurus hoffmannii,50.821,5.686,69.05,43.0959,4.6381,4.784,1416.74,Maastrichtian,PALEOMAP
+Otodus megalodon,9.354,-79.836,10.1,6.0387,-78.945,3.088,351.659,Late Miocene,TorsvikCocks2017
+Otodus megalodon,9.354,-79.836,10.1,9.1267,-78.185,3.088,351.659,Late Miocene,PALEOMAP
+Proplebeia dominicana,19.34,-71.23,17.5,16.0993,-67.258,4.8823,557.387,Early Miocene,MERDITH2021
+Proplebeia dominicana,19.34,-71.23,17.5,16.0379,-69.2078,4.8823,557.387,Early Miocene,TorsvikCocks2017
+Proplebeia dominicana,19.34,-71.23,17.5,15.7958,-67.6984,4.8823,557.387,Early Miocene,MATTHEWS2016_pmag_ref
+Proplebeia dominicana,19.34,-71.23,17.5,20.6781,-67.1581,4.8823,557.387,Early Miocene,GOLONKA
+Proplebeia dominicana,19.34,-71.23,17.5,19.2486,-69.8437,4.8823,557.387,Early Miocene,PALEOMAP
+Sinosauropteryx prima,41.693,120.825,125,50.0633,141.9252,8.6123,1695.736,Early Aptian,MERDITH2021
+Sinosauropteryx prima,41.693,120.825,125,45.9345,125.9666,8.6123,1695.736,Early Aptian,TorsvikCocks2017
+Sinosauropteryx prima,41.693,120.825,125,46.8463,138.8003,8.6123,1695.736,Early Aptian,MATTHEWS2016_pmag_ref
+Sinosauropteryx prima,41.693,120.825,125,41.451,129.7089,8.6123,1695.736,Early Aptian,GOLONKA
+Sinosauropteryx prima,41.693,120.825,125,43.2382,122.0092,8.6123,1695.736,Early Aptian,PALEOMAP
+Tapejara wellnhoferi,-7.2,-40.5,111,-7.5019,-1.4753,6.7206,1376.431,Middle Albian,MERDITH2021
+Tapejara wellnhoferi,-7.2,-40.5,111,-6.0347,-8.451,6.7206,1376.431,Middle Albian,TorsvikCocks2017
+Tapejara wellnhoferi,-7.2,-40.5,111,-6.5355,-1.4536,6.7206,1376.431,Middle Albian,MATTHEWS2016_pmag_ref
+Tapejara wellnhoferi,-7.2,-40.5,111,-3.5679,-0.1006,6.7206,1376.431,Middle Albian,GOLONKA
+Tapejara wellnhoferi,-7.2,-40.5,111,-10.2885,-10.5902,6.7206,1376.431,Middle Albian,PALEOMAP
+Thylacosmilus atrox,-27.22,-66.83,3.5,-28.0114,-66.4668,1.115,125.914,Pliocene,MERDITH2021
+Thylacosmilus atrox,-27.22,-66.83,3.5,-28.1226,-66.4679,1.115,125.914,Pliocene,TorsvikCocks2017
+Thylacosmilus atrox,-27.22,-66.83,3.5,-28.1429,-66.0501,1.115,125.914,Pliocene,MATTHEWS2016_pmag_ref
+Thylacosmilus atrox,-27.22,-66.83,3.5,-27.0279,-66.1261,1.115,125.914,Pliocene,GOLONKA
+Thylacosmilus atrox,-27.22,-66.83,3.5,-27.2288,-66.352,1.115,125.914,Pliocene,PALEOMAP
+Tyrannosaurus rex,47.72,-106.52,66,54.479,-67.1121,4.8809,1012.376,Cretaceous – Paleogene boundary,MERDITH2021
+Tyrannosaurus rex,47.72,-106.52,66,53.0977,-77.9642,4.8809,1012.376,Cretaceous – Paleogene boundary,TorsvikCocks2017
+Tyrannosaurus rex,47.72,-106.52,66,52.9355,-66.9601,4.8809,1012.376,Cretaceous – Paleogene boundary,MATTHEWS2016_pmag_ref
+Tyrannosaurus rex,47.72,-106.52,66,57.8164,-66.2043,4.8809,1012.376,Cretaceous – Paleogene boundary,GOLONKA
+Tyrannosaurus rex,47.72,-106.52,66,54.1479,-81.0922,4.8809,1012.376,Cretaceous – Paleogene boundary,PALEOMAP
+Velociraptor mongoliensis,44.175,103.417,73,44.402,100.9028,7.54519999999999,1093.093,Late Campanian,MERDITH2021
+Velociraptor mongoliensis,44.175,103.417,73,46.0012,89.047,7.54519999999999,1093.093,Late Campanian,TorsvikCocks2017
+Velociraptor mongoliensis,44.175,103.417,73,45.9049,100.2188,7.54519999999999,1093.093,Late Campanian,MATTHEWS2016_pmag_ref
+Velociraptor mongoliensis,44.175,103.417,73,38.456,97.5724,7.54519999999999,1093.093,Late Campanian,GOLONKA
+Velociraptor mongoliensis,44.175,103.417,73,40.8509,92.8621,7.54519999999999,1093.093,Late Campanian,PALEOMAP
+Xampylodon diastemacron,-64.29,-56.742,67.6,-61.6422,-68.7656,4.3179,703.367,Maastrichtian,MERDITH2021
+Xampylodon diastemacron,-64.29,-56.742,67.6,-63.8329,-80.4802,4.3179,703.367,Maastrichtian,TorsvikCocks2017
+Xampylodon diastemacron,-64.29,-56.742,67.6,-63.2723,-69.5444,4.3179,703.367,Maastrichtian,MATTHEWS2016_pmag_ref
+Xampylodon diastemacron,-64.29,-56.742,67.6,-59.515,-70.7577,4.3179,703.367,Maastrichtian,GOLONKA
+Xampylodon diastemacron,-64.29,-56.742,67.6,-62.8094,-67.9628,4.3179,703.367,Maastrichtian,PALEOMAP
+Greenwich Zero Meridian,51.478,0,0,51.478,0,0,0,PaleoAtlas,MERDITH2021
+Greenwich Zero Meridian,51.478,0,0,51.478,0,0,0,PaleoAtlas,TorsvikCocks2017
+Greenwich Zero Meridian,51.478,0,0,51.478,0,0,0,PaleoAtlas,MATTHEWS2016_pmag_ref
+Greenwich Zero Meridian,51.478,0,0,51.478,0,0,0,PaleoAtlas,GOLONKA
+Greenwich Zero Meridian,51.478,0,0,51.478,0,0,0,PaleoAtlas,PALEOMAP
