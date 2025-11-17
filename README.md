@@ -2,7 +2,7 @@
 
 14 October 2025
 
-This directory contains the supplementary data and files for the article, "PACA: An accessible solution for paleocoordinate calculation". Specifically:
+This directory contains the supplementary data and files for the article, "An accessible solution for paleocoordinate calculation". Specifically:
 
 * test_dataset.xslx: This directory contains the complete test dataset used for our study's validation. It contains 30 fossil sites with present-day coordinates, globally distributed and spanning a wide range of geological ages.
 
